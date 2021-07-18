@@ -4,12 +4,12 @@
 
 ## インストール
 ```
-go inttall
+go install
 ```
 
 ## 使い方
 ```
-export TOKEN="yous spotify token"
+export TOKEN="your spotify token"
 ```
 
 ```
@@ -36,7 +36,7 @@ Add command:
 		a2s add [awa playlist url] [spotify playlist url]
 	
 	Example:
-		a2s add https://mf.awa.fm/350pkxE https://open.spotify.com/playlist/2dpeGxTWfOVysBwuO5bvta`
+		a2s add https://mf.awa.fm/350pkxE https://open.spotify.com/playlist/2dpeGxTWfOVysBwuO5bvta
 ```
 
 ## Spotify のトークン
